@@ -32,3 +32,8 @@ body {
     border-radius: 4px;
     cursor: pointer;
 }
+
+.page-link:hover {
+    background-color: #333;
+    color: white;
+}
